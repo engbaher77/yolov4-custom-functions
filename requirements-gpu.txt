@@ -7,3 +7,4 @@ matplotlib
 easydict
 pillow
 pytesseract
+fonttools>=4.43.0 # not directly required, pinned by Snyk to avoid a vulnerability
